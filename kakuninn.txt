@@ -1,0 +1,10 @@
+###確認問題
+
+1.  <body> 
+</br>
+2.  <a href=""></a>
+</br>
+3.<meta charset="UTF-8">
+4.<link rel="stylesheet" href="">
+5.<div class="content"></div>
+
