@@ -12,6 +12,8 @@ HTML_CSS_Learning
 - start:2-2 3/20
 - finish:2-2 3/21
 - start:2-3 3/22
+- finish:2-3 3/22
+
 
 <br>
 
