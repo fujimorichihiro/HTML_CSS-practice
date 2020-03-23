@@ -18,6 +18,7 @@ HTML_CSS_Learning
 - start:2-5 3/22
 - finish:2-5 3/22
 - start:2-6 3/22
+-finish:2-6 3/22
 
 
 <br>
