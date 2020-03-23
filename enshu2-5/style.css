@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 
-.clerfix::after {
+.clearfix::after {
 	content: "";
 	display: block;
 	clear: both;
@@ -39,7 +39,7 @@ header .headline {
 .main {
 	width: 800px;
 	margin: 0 auto;
-	padding:50px 0;
+	padding: 50px 0;
 }
 .box1 {
 	width: 200px;
