@@ -20,6 +20,8 @@ HTML_CSS_Learning
 - start:2-6 3/22
 -finish:2-6 3/22
 -start:2-7 3/23
+-finish:2-7 3/23
+-start:2-8 3/23
 
 
 <br>
